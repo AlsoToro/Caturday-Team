@@ -1,0 +1,171 @@
+body {
+    font-style: normal;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 47px;
+    color: #000000;
+    background-color: #FFFFFF;
+    width: 1920px;
+    height: 2500px;
+}
+.nav-item {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 27px;
+    color: #000000;
+}
+.nav-list li a {
+    color: #000000;
+    text-decoration: none;
+}
+.nav-list li a:hover {
+    color: #e4a621;
+    text-decoration: none;
+}
+ul.nav-list li {
+display: inline;
+}
+ul.nav-list {
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 10px;
+gap: 100px;
+position: absolute;
+width: 312px;
+height: 47px;
+left: 804px;
+top: 5px;
+}
+.logotype-img {
+    position: absolute;
+    left: 185px;
+    right: 1704px;
+    top: 15px;
+    bottom: 2298px;
+}
+.logotype-text {
+    position: absolute;
+    left: 108px;
+    right: 1704px;
+    top: 1px;
+    bottom: 2298px;
+    font-family: 'Mouse Memoirs';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 46px;
+    text-align: center;
+    color: #000000;
+    }
+.hero-h1 {
+    position: absolute;
+    width: 784px;
+    height: 158px;
+    left: 568px;
+    top: 200px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 75px;
+    line-height: 89px;
+    text-align: center;
+    color: #000000;
+}
+.hero {
+position: absolute;
+width: 1920px;
+height: 1615px;
+left: 0px;
+top: 150px;
+background-image: url(sick.jpg);
+background-repeat: no-repeat;
+}
+.hero-p {
+    position: absolute;
+    width: 480px;
+    height: 27px;
+    left: 720px;
+    top: 519px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 36px;
+    text-align: center;
+    color: #000000;
+}
+.article-container {
+    position: absolute;
+    width: 1177px;
+    height: 1000px;
+    left: 372px;
+    top: 915px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 47px;
+    color: #000000;
+    text-align: justify;
+}
+.list-1 {
+    display:inline-block;
+}
+.list-2 {
+    display:inline-block;
+}
+.list-3 {
+    display:inline-block;
+}
+.source {
+    border-top:1px solid #000000;
+}
+.footer-logotype-img {
+    position: absolute;
+    left: 185px;
+    top: 15px; 
+}
+.footer-logotype-text {
+    position: absolute;
+    left: 108px;
+    top: 0px;
+    font-family: 'Mouse Memoirs';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 46px;
+    text-align: center;
+    color: #000000;
+}
+.main-footer {
+    border-top: 1px solid rgba(154, 154, 154, 1);
+    position: absolute;
+    width: 1940px;
+    height: 116px;
+    left: 0px;
+    top: 4190px;
+}
+.theme {
+    position: absolute;
+    top: 40px;
+    left:740px;
+}
+comments-container mt-5 {
+    position: absolute;
+    width: 1940px;
+    height: 116px;
+    left: 108px;
+    top: 4000px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    text-align: center;
+    color: #000000;
+}
