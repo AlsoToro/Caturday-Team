@@ -1,0 +1,45 @@
+body {
+    color: #000000;
+    background-color: #ffffff;
+}
+.nav-item {
+    color: #000000;
+}
+.nav-list li a {
+    color: #000000;
+}
+.nav-list li a:hover {
+    color: #e4a621;
+}
+.logotype-text {
+    color: #000000;
+    }
+.hero-h1 {
+    color: #000000;
+}
+.hero-p {
+    color: #000000;
+}
+.article-container {
+    color: #000;
+}
+.source {
+    border-top:1px solid #000000;
+}
+.footer-logotype-text {
+    color: #000000;
+}
+.main-footer {
+    border-top: 1px solid #000000;
+}
+
+.media-body .author {
+    color: #000;
+  }
+  .media-body .metadata {
+    color: #777;
+  }
+  .title-comments {
+    color: rgba(0,0,0,.87);
+    border-bottom: 1px solid rgba(34,36,38,.15);
+  }
