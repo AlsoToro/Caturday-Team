@@ -1,0 +1,32 @@
+body {
+color: #000000;
+background-color: #FFFFFF;
+}
+.nav-item {
+color: #000000;
+}
+.nav-list li a {
+color: #000000;
+}
+.nav-list li a:hover {
+color: #e4a621;
+} 
+.logotype-text {
+color: #000000;
+}
+.hero-h1 {
+color: #000000;
+}
+.footer-logotype-text {
+color: #000000;
+}
+.hero-p {
+color: #000000;
+}
+.article-container {
+color: #000000;
+}
+.source-link {
+color: #FFFFFF;
+}
+    
